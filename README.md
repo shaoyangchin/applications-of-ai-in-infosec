@@ -1,1 +1,1 @@
-# applicaitons-of-ai-in-infosec
+# applications-of-ai-in-infosec
